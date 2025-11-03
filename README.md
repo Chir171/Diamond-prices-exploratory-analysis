@@ -1,1 +1,1 @@
-# Diamond-prices-exploratory-analysis
+Diamond prices exploratory analysis
